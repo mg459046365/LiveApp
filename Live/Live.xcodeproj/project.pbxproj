@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		B40A5095231FB1500059DAF4 /* SeriesDetailController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B40A5094231FB1500059DAF4 /* SeriesDetailController.swift */; };
 		B40A5099231FBB880059DAF4 /* ColorDetailController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B40A5098231FBB880059DAF4 /* ColorDetailController.swift */; };
-		B40A509C231FBE890059DAF4 /* OpenTransition.swift in Sources */ = {isa = PBXBuildFile; fileRef = B40A509B231FBE890059DAF4 /* OpenTransition.swift */; };
+		B40A509C231FBE890059DAF4 /* BYTransition.swift in Sources */ = {isa = PBXBuildFile; fileRef = B40A509B231FBE890059DAF4 /* BYTransition.swift */; };
 		B492A4432317888300296AB4 /* MyCollectionCardCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B492A4422317888300296AB4 /* MyCollectionCardCell.swift */; };
 		B4AB9BD2230E889E004868F2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4AB9BD1230E889E004868F2 /* AppDelegate.swift */; };
 		B4AB9BDB230E88A1004868F2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B4AB9BDA230E88A1004868F2 /* Assets.xcassets */; };
@@ -65,7 +65,7 @@
 		6846E4D3C9C1A966C5BA8D4F /* Pods_Live.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Live.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B40A5094231FB1500059DAF4 /* SeriesDetailController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeriesDetailController.swift; sourceTree = "<group>"; };
 		B40A5098231FBB880059DAF4 /* ColorDetailController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorDetailController.swift; sourceTree = "<group>"; };
-		B40A509B231FBE890059DAF4 /* OpenTransition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OpenTransition.swift; sourceTree = "<group>"; };
+		B40A509B231FBE890059DAF4 /* BYTransition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BYTransition.swift; sourceTree = "<group>"; };
 		B492A4422317888300296AB4 /* MyCollectionCardCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCollectionCardCell.swift; sourceTree = "<group>"; };
 		B4AB9BCE230E889E004868F2 /* Live.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Live.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B4AB9BD1230E889E004868F2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -144,7 +144,7 @@
 		B40A509A231FBD8B0059DAF4 /* ColorTransition */ = {
 			isa = PBXGroup;
 			children = (
-				B40A509B231FBE890059DAF4 /* OpenTransition.swift */,
+				B40A509B231FBE890059DAF4 /* BYTransition.swift */,
 			);
 			path = ColorTransition;
 			sourceTree = "<group>";
@@ -464,7 +464,7 @@
 				B4C8CD5B2314D60500CB24D7 /* LiveColor.swift in Sources */,
 				B4AB9BFC230E9B51004868F2 /* UIImageExtension.swift in Sources */,
 				B4AB9BEE230E98CD004868F2 /* TabBarController.swift in Sources */,
-				B40A509C231FBE890059DAF4 /* OpenTransition.swift in Sources */,
+				B40A509C231FBE890059DAF4 /* BYTransition.swift in Sources */,
 				B4C8CD8E23161C7900CB24D7 /* MeCell.swift in Sources */,
 				B4AB9BF2230E9948004868F2 /* Util.swift in Sources */,
 				B4C8CDA82316B93000CB24D7 /* MyCollectionCell.swift in Sources */,
